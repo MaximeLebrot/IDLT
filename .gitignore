@@ -72,16 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Tekniska/Saved/Logs/Tekniska.log
-Tekniska/Saved/Logs/Tekniska-backup-2022.01.21-09.10.37.log
-Tekniska/Saved/Config/CrashReportClient/
-Tekniska/Intermediate/CachedAssetRegistry.bin
-Tekniska/Saved/Logs/Tekniska-backup-2022.01.21-10.12.05.log
-Tekniska/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-Tekniska/Saved/AutoScreenshot.png
-Tekniska/Saved/Config/Windows/Engine.ini
-Tekniska/Saved/Autosaves/PackageRestoreData.json
-Tekniska/Saved/Config/CrashReportClient/
-Tekniska/Saved/Logs/
-Tekniska/Intermediate/
-Tekniska/Binaries/
+IDLT/Saved/Logs/*
+IDLT/Saved/Config/CrashReportClient/
+IDLT/Intermediate/CachedAssetRegistry.bin
+IDLT/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+IDLT/Saved/AutoScreenshot.png
+IDLT/Saved/Config/Windows/Engine.ini
+IDLT/Saved/Autosaves/PackageRestoreData.json
+IDLT/Saved/Config/CrashReportClient/
+IDLT/Saved/Logs/
+IDLT/Intermediate/
+IDLT/Binaries/
