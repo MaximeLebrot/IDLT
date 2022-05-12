@@ -38,31 +38,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DC836852EA3CF56EDDB5F1ADEF6E81A2C26B6AAF",
-			"Assets": [
-				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D622D471E8208DF86367DD4A1302CDFFAA28718D",
-			"Assets": [
-				"/OculusVR/Materials/touchController_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "8F5763B62E2A3F835953C77F4B67EBA9FC958CDF",
-			"Assets": [
-				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
-				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
-			]
-		},
-		{
-			"ShaderMapHash": "3BE1C0A0FD7FEA137DF40CC5BED756CC9263FD73",
-			"Assets": [
-				"/OculusVR/Materials/OculusMR_ChromaKey"
-			]
-		},
-		{
 			"ShaderMapHash": "E8578C0BC7AC8C1A3F4CD2C4EA3B135E1D4568C8",
 			"Assets": [
 				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
@@ -122,6 +97,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8F5763B62E2A3F835953C77F4B67EBA9FC958CDF",
+			"Assets": [
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
 			"ShaderMapHash": "5351DE0111D400AED12F1FBF8D3771B1D3B0532E",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -131,12 +112,6 @@
 			"ShaderMapHash": "338FBA298BEAC822185BAEB1E9234C6BBA704BA1",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7EB4E6A630DA067CF90B1EDA70B4DE72302D94C0",
-			"Assets": [
-				"/OculusVR/Materials/PokeAHoleMaterial"
 			]
 		},
 		{
@@ -285,48 +260,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6D4BEE2705522A163187BCE689B066F504B1D60F",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
-			"ShaderMapHash": "12028E1D5AD03810DE05748A1E10D111BEE39822",
-			"Assets": [
-				"/Game/StarterKit/Foliage/_Materials/ForestSet/Materials/MASTER_TREELEAVES"
-			]
-		},
-		{
-			"ShaderMapHash": "586FDD849F452CBFFDDB4297325D641BA58F5157",
-			"Assets": [
-				"/Game/StarterKit/Foliage/_Materials/ForestSet/Materials/M_TreeBark01"
-			]
-		},
-		{
 			"ShaderMapHash": "66B0C70843E59821829E7A7DFD5CE976F73DB768",
 			"Assets": [
 				"/Game/MSPresets/MS_DefaultMaterial/MS_DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "5A54493B44E1ECC123D20D469E9CB5D43BB2740E",
-			"Assets": [
-				"/Game/Meshes/Wisdome/Floor/WhiteBoxMaterial",
-				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Label_Wine",
-				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Wrapper",
-				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Wine"
-			]
-		},
-		{
-			"ShaderMapHash": "6B76F85EF6C2D794C4014EB49346DF004069648E",
-			"Assets": [
-				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/M_Glass_Cafe"
-			]
-		},
-		{
-			"ShaderMapHash": "27D86CABBE8182504FE9F898AD5F1DEB5F3B3B0A",
-			"Assets": [
-				"/Game/Materials/M_Glass"
 			]
 		},
 		{
@@ -353,6 +289,45 @@
 			"ShaderMapHash": "0B862E25F82384C621D088AB759B3F9FA0EB29B5",
 			"Assets": [
 				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Material__821"
+			]
+		},
+		{
+			"ShaderMapHash": "5A54493B44E1ECC123D20D469E9CB5D43BB2740E",
+			"Assets": [
+				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Label_Wine",
+				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Wrapper",
+				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/Wine",
+				"/Game/Meshes/Wisdome/Floor/WhiteBoxMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6D4BEE2705522A163187BCE689B066F504B1D60F",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "6B76F85EF6C2D794C4014EB49346DF004069648E",
+			"Assets": [
+				"/Game/Meshes/CafeDome_Meshes/RandomBar_Meshar/M_Glass_Cafe"
+			]
+		},
+		{
+			"ShaderMapHash": "27D86CABBE8182504FE9F898AD5F1DEB5F3B3B0A",
+			"Assets": [
+				"/Game/Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "12028E1D5AD03810DE05748A1E10D111BEE39822",
+			"Assets": [
+				"/Game/StarterKit/Foliage/_Materials/ForestSet/Materials/MASTER_TREELEAVES"
+			]
+		},
+		{
+			"ShaderMapHash": "586FDD849F452CBFFDDB4297325D641BA58F5157",
+			"Assets": [
+				"/Game/StarterKit/Foliage/_Materials/ForestSet/Materials/M_TreeBark01"
 			]
 		},
 		{
